@@ -50,4 +50,5 @@ require("lazy").setup({
 	{ "terrortylor/nvim-comment" },
 	{ "lewis6991/gitsigns.nvim" },
 	{ "rebelot/kanagawa.nvim" },
+	{ "rose-pine/neovim", name = "rose-pine" },
 })
